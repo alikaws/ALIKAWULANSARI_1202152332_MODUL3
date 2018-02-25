@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0" android:drawable="@drawable/ic_lvl_25"/>
+    <item android:maxLevel="1" android:drawable="@drawable/ic_lvl_50"/>
+    <item android:maxLevel="2" android:drawable="@drawable/ic_lvl_75"/>
+    <item android:maxLevel="3" android:drawable="@drawable/ic_lvl_90"/>
+    <item android:maxLevel="4" android:drawable="@drawable/ic_lvl_100"/>
+
+</level-list>
